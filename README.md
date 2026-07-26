@@ -3,7 +3,7 @@
 ระบบสั่งอาหารออนไลน์ผ่าน LINE สำหรับร้านอาหารขนาดเล็ก  
 พัฒนาด้วย HTML/CSS/JavaScript + Google Apps Script + Google Sheets
 
-**🌐 Live URL:** https://aod3826.github.io/Linemini-/  
+**🌐 Live URL:**.[https://aodxx.github.io/ShopeeFood/]  
 **📱 LINE Mini App:** https://liff.line.me/2009141036-nx2nIzhS
 
 ---
